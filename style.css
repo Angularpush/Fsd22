@@ -10,6 +10,7 @@ body {
 ul {
   padding: 10px;
   background-color: blueviolet;
+  text-align: right;
 }
 li {
   display: inline-block;
